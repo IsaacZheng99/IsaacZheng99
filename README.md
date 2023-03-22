@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### 😄 This is a test account and I'm practicing how to use github.
+#### 😄 Welcome!
 
 <!--
 **xiaoliJenny/xiaoliJenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
